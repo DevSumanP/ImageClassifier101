@@ -43,12 +43,8 @@ We use the **CIFAR-10 dataset**, which contains:
 ## **🗂️ Project Structure**
 ```
 .
-├── dataset         # Data loaded from CIFAR-10
-├── model           # ANN and CNN model definitions
-├── preprocessing   # Data normalization and reshaping
-├── predictions     # Predictions and evaluation scripts
 ├── README.md       # Documentation
-└── main.py         # Main script to execute the project
+└── Image_Classification_(Cifar_10).ipynb         # Main script to execute the project
 ```
 
 ---
