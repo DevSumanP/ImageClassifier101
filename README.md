@@ -1,11 +1,11 @@
 
-# **Image Classification Using Neural Networks**
+# **🪟 Image Classification Using Neural Networks**
 
 This project demonstrates image classification using **Artificial Neural Networks (ANN)** and **Convolutional Neural Networks (CNN)** with the **CIFAR-10 dataset**. It includes dataset preprocessing, model building, training, and evaluation.
 
 ---
 
-## **Table of Contents**
+## **✨ Table of Contents**
 
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
@@ -18,21 +18,21 @@ This project demonstrates image classification using **Artificial Neural Network
 
 ---
 
-## **Introduction**
+## **📝 Introduction**
 Image classification is the process of identifying and categorizing objects in an image. In this project, we use two types of neural networks:
 - **ANN** (Artificial Neural Network): A basic model for image classification.
 - **CNN** (Convolutional Neural Network): A more advanced model that captures image-specific features for better accuracy.
 
 ---
 
-## **Dataset**
+## **💾 Dataset**
 We use the **CIFAR-10 dataset**, which contains:
 - 60,000 images divided into 10 categories: *airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck*.
 - Images are 32x32 pixels with 3 color channels (RGB).
 
 ---
 
-## **Technologies Used**
+## **💻 Technologies Used**
 - **Python**: Programming language.
 - **TensorFlow/Keras**: Framework for building and training neural networks.
 - **Matplotlib**: Library for data visualization.
@@ -40,7 +40,7 @@ We use the **CIFAR-10 dataset**, which contains:
 
 ---
 
-## **Project Structure**
+## **🗂️ Project Structure**
 ```
 .
 ├── dataset         # Data loaded from CIFAR-10
@@ -53,12 +53,12 @@ We use the **CIFAR-10 dataset**, which contains:
 
 ---
 
-## **How to Run**
+## **⚡ How to Run**
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/image-classification.git
-   cd image-classification
+   git clone https://github.com/DevSumanP/ImageClassifier101.git
+   cd ImageClassifier101
    ```
 
 2. **Install dependencies**:
@@ -78,7 +78,7 @@ We use the **CIFAR-10 dataset**, which contains:
 
 ---
 
-## **Code Explanation**
+## **⚡ Code Explanation**
 
 1. **Data Preprocessing**:
    - Normalize pixel values to range [0, 1] for faster and stable training.
@@ -97,7 +97,7 @@ We use the **CIFAR-10 dataset**, which contains:
 
 ---
 
-## **Results**
+## **😃 Results**
 
 | **Model**         | **Accuracy** |
 |--------------------|--------------|
@@ -121,5 +121,5 @@ We use the **CIFAR-10 dataset**, which contains:
 
 ---
 
-## **License**
+## **🗒️ License**
 This project is open-source under the [MIT License](LICENSE).
